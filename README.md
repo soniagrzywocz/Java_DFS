@@ -7,6 +7,7 @@ It also uses topological sort to print it in the right order. Expected limitatio
 - The Graph class include all the needed algorithms as well as methods to print the output. 
 
 **Method description**:
+
 public boolean DFS(int v) 
 - a method that contains algorithm needed to perform depth-first search. DFS visits all the nodes to its depth, before visiting its neighbours. The boolean black used in this algorithm serves as an indicator if certain node was visited. 
 
